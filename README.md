@@ -1,0 +1,1 @@
+This is an introductory class for HTML and CSS styling
